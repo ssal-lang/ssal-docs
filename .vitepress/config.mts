@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   title: "ssal docs",
-  base: "/docs/",
+  base: "/ssal-docs/",
   description: "Documentation for Super Simple Automating Language",
   cleanUrls: true,
   head: [
