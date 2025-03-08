@@ -43,9 +43,3 @@ task run:
 task clean:
     delete "$OUTPUT"
 ```
-
-## Next Steps
-
-- Learn more about [Tasks](./tasks)
-- Explore [Variables](./variables)
-- Understand available [Commands](./commands)
